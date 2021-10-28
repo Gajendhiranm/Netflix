@@ -1,7 +1,7 @@
 .navbar{
     width: 100%;
     color: white;
-    background-color: black;
+   background-color:transparent;
     position: fixed;
     top: 0;
     z-index: 999;
@@ -51,4 +51,8 @@
    flex-direction: column;
    position: absolute;
    
+}
+
+.scrolled{
+    background-color: black;
 }
