@@ -5,7 +5,7 @@ import Register from './pages/register/Register';
 import Watch from './pages/watch/Watch';
 
 function App() {
-  return <Home/>;
+  return <Login/>;
 }
 
 export default App;
